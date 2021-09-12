@@ -1,0 +1,16 @@
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\bin\Debug\net5.0\ASCIIDecoder.exe
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\bin\Debug\net5.0\ASCIIDecoder.deps.json
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\bin\Debug\net5.0\ASCIIDecoder.runtimeconfig.json
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\bin\Debug\net5.0\ASCIIDecoder.runtimeconfig.dev.json
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\bin\Debug\net5.0\ASCIIDecoder.dll
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\bin\Debug\net5.0\ref\ASCIIDecoder.dll
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\bin\Debug\net5.0\ASCIIDecoder.pdb
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\obj\Debug\net5.0\ASCIIDecoder.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\obj\Debug\net5.0\ASCIIDecoder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\obj\Debug\net5.0\ASCIIDecoder.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\obj\Debug\net5.0\ASCIIDecoder.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\obj\Debug\net5.0\ASCIIDecoder.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\obj\Debug\net5.0\ASCIIDecoder.dll
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\obj\Debug\net5.0\ref\ASCIIDecoder.dll
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\obj\Debug\net5.0\ASCIIDecoder.pdb
+C:\Users\Nikita\Desktop\code\C# code\seminar_1\Task03\obj\Debug\net5.0\ASCIIDecoder.genruntimeconfig.cache
