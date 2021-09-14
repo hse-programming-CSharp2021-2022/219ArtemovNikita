@@ -1,0 +1,11 @@
+C:\Users\artem_qc4h0y1\Desktop\c#\seminar_2\Task02\bin\Debug\netcoreapp3.1\Task02.exe
+C:\Users\artem_qc4h0y1\Desktop\c#\seminar_2\Task02\bin\Debug\netcoreapp3.1\Task02.deps.json
+C:\Users\artem_qc4h0y1\Desktop\c#\seminar_2\Task02\bin\Debug\netcoreapp3.1\Task02.runtimeconfig.json
+C:\Users\artem_qc4h0y1\Desktop\c#\seminar_2\Task02\bin\Debug\netcoreapp3.1\Task02.runtimeconfig.dev.json
+C:\Users\artem_qc4h0y1\Desktop\c#\seminar_2\Task02\bin\Debug\netcoreapp3.1\Task02.dll
+C:\Users\artem_qc4h0y1\Desktop\c#\seminar_2\Task02\bin\Debug\netcoreapp3.1\Task02.pdb
+C:\Users\artem_qc4h0y1\Desktop\c#\seminar_2\Task02\obj\Debug\netcoreapp3.1\Task02.csprojAssemblyReference.cache
+C:\Users\artem_qc4h0y1\Desktop\c#\seminar_2\Task02\obj\Debug\netcoreapp3.1\Task02.AssemblyInfoInputs.cache
+C:\Users\artem_qc4h0y1\Desktop\c#\seminar_2\Task02\obj\Debug\netcoreapp3.1\Task02.AssemblyInfo.cs
+C:\Users\artem_qc4h0y1\Desktop\c#\seminar_2\Task02\obj\Debug\netcoreapp3.1\Task02.dll
+C:\Users\artem_qc4h0y1\Desktop\c#\seminar_2\Task02\obj\Debug\netcoreapp3.1\Task02.pdb

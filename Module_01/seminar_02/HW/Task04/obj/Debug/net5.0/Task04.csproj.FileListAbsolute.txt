@@ -1,0 +1,16 @@
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\bin\Debug\net5.0\Task04.exe
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\bin\Debug\net5.0\Task04.deps.json
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\bin\Debug\net5.0\Task04.runtimeconfig.json
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\bin\Debug\net5.0\Task04.runtimeconfig.dev.json
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\bin\Debug\net5.0\Task04.dll
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\bin\Debug\net5.0\ref\Task04.dll
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\bin\Debug\net5.0\Task04.pdb
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\obj\Debug\net5.0\Task04.csproj.AssemblyReference.cache
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\obj\Debug\net5.0\Task04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\obj\Debug\net5.0\Task04.AssemblyInfoInputs.cache
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\obj\Debug\net5.0\Task04.AssemblyInfo.cs
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\obj\Debug\net5.0\Task04.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\obj\Debug\net5.0\Task04.dll
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\obj\Debug\net5.0\ref\Task04.dll
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\obj\Debug\net5.0\Task04.pdb
+C:\Users\Nikita\OneDrive - НИУ Высшая школа экономики\Рабочий стол\HW\Task04\obj\Debug\net5.0\Task04.genruntimeconfig.cache
