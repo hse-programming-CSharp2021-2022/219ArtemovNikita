@@ -8,28 +8,20 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Nikita\\.nuget\\packages\\": {},
-    "D:\\vs stud\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\artem_qc4h0y1\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nikita\\OneDrive - НИУ Высшая школа экономики\\Рабочий стол\\code\\C# code\\219ArtemovNikita\\Module_01\\seminar_02\\CW\\Task01\\Task01.csproj",
+      "projectUniqueName": "C:\\Users\\artem_qc4h0y1\\Desktop\\219ArtemovNikita\\Module_01\\seminar_02\\CW\\Task01\\Task01.csproj",
       "projectName": "Task01",
-      "projectPath": "C:\\Users\\Nikita\\OneDrive - НИУ Высшая школа экономики\\Рабочий стол\\code\\C# code\\219ArtemovNikita\\Module_01\\seminar_02\\CW\\Task01\\Task01.csproj",
-      "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nikita\\OneDrive - НИУ Высшая школа экономики\\Рабочий стол\\code\\C# code\\219ArtemovNikita\\Module_01\\seminar_02\\CW\\Task01\\obj\\",
+      "projectPath": "C:\\Users\\artem_qc4h0y1\\Desktop\\219ArtemovNikita\\Module_01\\seminar_02\\CW\\Task01\\Task01.csproj",
+      "packagesPath": "C:\\Users\\artem_qc4h0y1\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\artem_qc4h0y1\\Desktop\\219ArtemovNikita\\Module_01\\seminar_02\\CW\\Task01\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\vs stud\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\artem_qc4h0y1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
@@ -68,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
