@@ -1,5 +1,4 @@
 ﻿using System;
-using System.ComponentModel;
 
 namespace Task01
 {
@@ -7,64 +6,31 @@ namespace Task01
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            Random rnd = new Random();
-            int[] arr = new int[n];
-            for (int i = 0; i < n; i++)
+            int k = int.Parse(Console.ReadLine());
+            char[] mas = new char[k];
+            Random r = new Random();
+            for (int i = 0; i < mas.Length; i++)
             {
-                arr[i] = rnd.Next(0,1001);
+                mas[i] = (char)r.Next(65, 91);
+                Console.Write(mas[i] + " ");
             }
-            Array.Sort(arr,ev);
-            Array.ForEach(arr,el => Console.Write(el + " "));
+            char[] copy = new char[k];
+            Array.Copy(mas,copy, k);
             Console.WriteLine();
-            Array.Sort(arr,count);
-            Array.ForEach(arr,el => Console.Write(el + " "));
+            Array.Sort(copy);
+            
+            Print(copy);
             Console.WriteLine();
-            Array.Sort(arr,sum);
-            Array.ForEach(arr,el => Console.Write(el + " "));
+            Array.Reverse(copy);
+            Print(copy);
         }
 
-        static int ev(int a, int b)
+        static void Print(char[] mas)
         {
-            if (a % 2 == 0 && b%2!=0)
-                return -1;
-            if (a % 2 == 1 && b%2==0)
-                return 1;
-            return 0;
-        }
-
-        static int count(int a, int b)
-        {
-            int lenA = a.ToString().Length;
-            int lenB = b.ToString().Length;
-            if (lenA > lenB)
-                return -1;
-            if (lenA < lenB)
-                return 1;
-            return 0;
-        }
-
-        static int sum(int a, int b)
-        {
-            int suma = 0;
-            int sumb = 0;
-
-            while (a > 0)
+            for (int i = 0; i < mas.Length; i++)
             {
-                suma += a % 10;
-                a /= 10;
+                Console.Write(mas[i] + " ");
             }
-            while (b > 0)
-            {
-                sumb += b % 10;
-                b /= 10;
-            }
-
-            if (suma < sumb)
-                return 1;
-            if (sumb < suma)
-                return -1;
-            return 0;
         }
     }
 }

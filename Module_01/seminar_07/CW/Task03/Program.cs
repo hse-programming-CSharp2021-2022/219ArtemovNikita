@@ -1,42 +1,46 @@
 ﻿using System;
-using System.ComponentModel;
 
 namespace Task03
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Shuffle(int[] arr)
         {
-            int n = int.Parse(Console.ReadLine());
-            int[] arr = new int[n];
-            Random rnd = new Random();
-            for (int i = 0; i < arr.Length; i++)
+            Random rand = new Random();
+            for (int i = arr.Length - 1; i >= 1; i--)
             {
-                arr[i] = rnd.Next(1000, 10000);
-                Console.Write(arr[i] + " ");
-            }
-
-            Console.WriteLine();
-            int[] p = Array.FindAll(arr, pal);
-            for (int i = 0; i < p.Length; i++)
-            {
-                Console.WriteLine(p[i]);
+                int j = rand.Next(i + 1);
+                int a = arr[j];
+                arr[j] = arr[i];
+                arr[i] = a;
             }
         }
-
-        static bool pal(int a)
+        
+        static void Main(string[] args)
         {
-            int[] arr = new int[4];
-            arr[0] = a % 10;
-            arr[1] = (a / 10) % 10;
-            arr[2] = (a / 100) % 10;
-            arr[3] = (a / 1000) % 10;
-            if (arr[0] == arr[3] && (arr[1] == arr[2]))
-                return true;
-            else
+            int[] arr = new int[100];
+            int s1,s2,s3;
+            s1 = s2 = s3 = 0;
+            for (int i = 0; i < arr.Length; i++)
             {
-                return false;
+                arr[i] = i + 1;
             }
+            Shuffle(arr);
+            Random rnd = new Random();
+            int ind = rnd.Next(0, arr.Length);
+            Array.Resize(ref arr,99);
+            for (int i = 0; i < arr.Length; i++)
+            {
+                s2 += arr[i];
+            }
+            Array.Resize(ref arr,100);
+            arr[99] = arr[ind];
+            for (int i = 0; i < arr.Length; i++)
+            {
+                s3 += arr[i];
+            }
+            Console.WriteLine(arr[ind]);
+            Console.WriteLine(s3-s2);
         }
     }
 }

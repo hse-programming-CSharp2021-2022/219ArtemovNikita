@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Linq;
 
 namespace Task02
 {
@@ -6,46 +7,33 @@ namespace Task02
     {
         static void Main(string[] args)
         {
-            int n = int.Parse(Console.ReadLine());
-            int[][] arr = new int[n][];
-            Random rnd = new Random();
-            int N;
+            int[] arr = new int[100];
+            int s1 = 0;
             for (int i = 0; i < arr.Length; i++)
             {
-                N = rnd.Next(5, 16);
-                arr[i] = new int[N];
-                for (int j = 0; j < arr[i].Length; j++)
-                {
-                    arr[i][j] = rnd.Next(-10, 11);
-                }
-                Array.ForEach(arr[i], el => Console.Write(el + " "));
-                Console.WriteLine();
+                arr[i] = i+1;
+                s1 += arr[i];
             }
-            Console.WriteLine("Исходный массивы выведены, теперь идем дальше");
+            Shuffle(arr);
+            Array.Resize(ref arr,99);
+            int s2 = 0;
             for (int i = 0; i < arr.Length; i++)
             {
-                Array.Sort(arr[i]);
-                Array.Reverse(arr[i]);
+                s2 += arr[i];
             }
-            Array.Sort(arr,Count);
-            for (int i = 0; i < arr.Length; i++)
-            {
-                Array.ForEach(arr[i],el => Console.Write(el + " "));
-                Console.WriteLine();
-            }
-
-            Console.WriteLine("done");
+            Console.WriteLine(s1-s2);
         }
 
-        static int Count(int[] a, int[] b)
+        static void Shuffle(int[] arr)
         {
-            int ca = a.Length;
-            int cb = b.Length;
-            if (ca > cb)
-                return -1;
-            if (ca < cb)
-                return 1;
-            return 0;
+            Random rand = new Random();
+            for (int i = arr.Length - 1; i >= 1; i--)
+            {
+                int j = rand.Next(i + 1);
+                int a = arr[j];
+                arr[j] = arr[i];
+                arr[i] = a;
+            }
         }
     }
 }
