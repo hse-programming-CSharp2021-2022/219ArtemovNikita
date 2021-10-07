@@ -1,0 +1,32 @@
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\bin\Debug\net5.0\Task03.exe
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\bin\Debug\net5.0\Task03.deps.json
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\bin\Debug\net5.0\Task03.runtimeconfig.json
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\bin\Debug\net5.0\Task03.runtimeconfig.dev.json
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\bin\Debug\net5.0\Task03.dll
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\bin\Debug\net5.0\ref\Task03.dll
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\bin\Debug\net5.0\Task03.pdb
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\obj\Debug\net5.0\Task03.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\obj\Debug\net5.0\Task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\obj\Debug\net5.0\Task03.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\obj\Debug\net5.0\Task03.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\obj\Debug\net5.0\Task03.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\obj\Debug\net5.0\Task03.dll
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\obj\Debug\net5.0\ref\Task03.dll
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\obj\Debug\net5.0\Task03.pdb
+C:\Users\Nikita\Desktop\CW_and_HW\Task03\obj\Debug\net5.0\Task03.genruntimeconfig.cache
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\bin\Debug\net5.0\Task03.exe
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\bin\Debug\net5.0\Task03.deps.json
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\bin\Debug\net5.0\Task03.runtimeconfig.json
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\bin\Debug\net5.0\Task03.runtimeconfig.dev.json
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\bin\Debug\net5.0\Task03.dll
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\bin\Debug\net5.0\ref\Task03.dll
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\bin\Debug\net5.0\Task03.pdb
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\obj\Debug\net5.0\Task03.csproj.AssemblyReference.cache
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\obj\Debug\net5.0\Task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\obj\Debug\net5.0\Task03.AssemblyInfoInputs.cache
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\obj\Debug\net5.0\Task03.AssemblyInfo.cs
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\obj\Debug\net5.0\Task03.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\obj\Debug\net5.0\Task03.dll
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\obj\Debug\net5.0\ref\Task03.dll
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\obj\Debug\net5.0\Task03.pdb
+C:\Users\Nikita\Рабочий стол\CW+HW\Task03\obj\Debug\net5.0\Task03.genruntimeconfig.cache

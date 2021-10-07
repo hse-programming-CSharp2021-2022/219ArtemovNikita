@@ -1,0 +1,32 @@
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\bin\Debug\net5.0\Task01.exe
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\bin\Debug\net5.0\Task01.deps.json
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\bin\Debug\net5.0\Task01.runtimeconfig.json
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\bin\Debug\net5.0\Task01.runtimeconfig.dev.json
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\bin\Debug\net5.0\Task01.dll
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\bin\Debug\net5.0\ref\Task01.dll
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\bin\Debug\net5.0\Task01.pdb
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\obj\Debug\net5.0\Task01.csproj.AssemblyReference.cache
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\obj\Debug\net5.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\obj\Debug\net5.0\Task01.AssemblyInfoInputs.cache
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\obj\Debug\net5.0\Task01.AssemblyInfo.cs
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\obj\Debug\net5.0\Task01.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\obj\Debug\net5.0\Task01.dll
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\obj\Debug\net5.0\ref\Task01.dll
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\obj\Debug\net5.0\Task01.pdb
+C:\Users\Nikita\Desktop\CW_and_HW\Task01\obj\Debug\net5.0\Task01.genruntimeconfig.cache
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\bin\Debug\net5.0\Task01.exe
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\bin\Debug\net5.0\Task01.deps.json
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\bin\Debug\net5.0\Task01.runtimeconfig.json
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\bin\Debug\net5.0\Task01.runtimeconfig.dev.json
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\bin\Debug\net5.0\Task01.dll
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\bin\Debug\net5.0\ref\Task01.dll
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\bin\Debug\net5.0\Task01.pdb
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\obj\Debug\net5.0\Task01.csproj.AssemblyReference.cache
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\obj\Debug\net5.0\Task01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\obj\Debug\net5.0\Task01.AssemblyInfoInputs.cache
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\obj\Debug\net5.0\Task01.AssemblyInfo.cs
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\obj\Debug\net5.0\Task01.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\obj\Debug\net5.0\Task01.dll
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\obj\Debug\net5.0\ref\Task01.dll
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\obj\Debug\net5.0\Task01.pdb
+C:\Users\Nikita\Рабочий стол\CW+HW\Task01\obj\Debug\net5.0\Task01.genruntimeconfig.cache
