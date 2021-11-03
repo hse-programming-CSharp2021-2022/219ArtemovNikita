@@ -1,0 +1,16 @@
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\bin\Debug\net5.0\Tsak01.exe
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\bin\Debug\net5.0\Tsak01.deps.json
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\bin\Debug\net5.0\Tsak01.runtimeconfig.json
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\bin\Debug\net5.0\Tsak01.runtimeconfig.dev.json
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\bin\Debug\net5.0\Tsak01.dll
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\bin\Debug\net5.0\ref\Tsak01.dll
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\bin\Debug\net5.0\Tsak01.pdb
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\obj\Debug\net5.0\Tsak01.csproj.AssemblyReference.cache
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\obj\Debug\net5.0\Tsak01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\obj\Debug\net5.0\Tsak01.AssemblyInfoInputs.cache
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\obj\Debug\net5.0\Tsak01.AssemblyInfo.cs
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\obj\Debug\net5.0\Tsak01.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\obj\Debug\net5.0\Tsak01.dll
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\obj\Debug\net5.0\ref\Tsak01.dll
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\obj\Debug\net5.0\Tsak01.pdb
+C:\Users\Nikita\Рабочий стол\CW\Tsak01\obj\Debug\net5.0\Tsak01.genruntimeconfig.cache
