@@ -1,0 +1,15 @@
+C:\Users\Nikita\Рабочий стол\HW\Maiden\bin\Debug\net6.0\Maiden.exe
+C:\Users\Nikita\Рабочий стол\HW\Maiden\bin\Debug\net6.0\Maiden.deps.json
+C:\Users\Nikita\Рабочий стол\HW\Maiden\bin\Debug\net6.0\Maiden.runtimeconfig.json
+C:\Users\Nikita\Рабочий стол\HW\Maiden\bin\Debug\net6.0\Maiden.dll
+C:\Users\Nikita\Рабочий стол\HW\Maiden\bin\Debug\net6.0\ref\Maiden.dll
+C:\Users\Nikita\Рабочий стол\HW\Maiden\bin\Debug\net6.0\Maiden.pdb
+C:\Users\Nikita\Рабочий стол\HW\Maiden\obj\Debug\net6.0\Maiden.csproj.AssemblyReference.cache
+C:\Users\Nikita\Рабочий стол\HW\Maiden\obj\Debug\net6.0\Maiden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Рабочий стол\HW\Maiden\obj\Debug\net6.0\Maiden.AssemblyInfoInputs.cache
+C:\Users\Nikita\Рабочий стол\HW\Maiden\obj\Debug\net6.0\Maiden.AssemblyInfo.cs
+C:\Users\Nikita\Рабочий стол\HW\Maiden\obj\Debug\net6.0\Maiden.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Рабочий стол\HW\Maiden\obj\Debug\net6.0\Maiden.dll
+C:\Users\Nikita\Рабочий стол\HW\Maiden\obj\Debug\net6.0\ref\Maiden.dll
+C:\Users\Nikita\Рабочий стол\HW\Maiden\obj\Debug\net6.0\Maiden.pdb
+C:\Users\Nikita\Рабочий стол\HW\Maiden\obj\Debug\net6.0\Maiden.genruntimeconfig.cache

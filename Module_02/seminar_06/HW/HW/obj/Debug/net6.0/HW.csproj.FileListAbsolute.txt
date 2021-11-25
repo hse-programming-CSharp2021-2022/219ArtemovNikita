@@ -1,0 +1,15 @@
+C:\Users\Nikita\Рабочий стол\HW\HW\bin\Debug\net6.0\HW.exe
+C:\Users\Nikita\Рабочий стол\HW\HW\bin\Debug\net6.0\HW.deps.json
+C:\Users\Nikita\Рабочий стол\HW\HW\bin\Debug\net6.0\HW.runtimeconfig.json
+C:\Users\Nikita\Рабочий стол\HW\HW\bin\Debug\net6.0\HW.dll
+C:\Users\Nikita\Рабочий стол\HW\HW\bin\Debug\net6.0\ref\HW.dll
+C:\Users\Nikita\Рабочий стол\HW\HW\bin\Debug\net6.0\HW.pdb
+C:\Users\Nikita\Рабочий стол\HW\HW\obj\Debug\net6.0\HW.csproj.AssemblyReference.cache
+C:\Users\Nikita\Рабочий стол\HW\HW\obj\Debug\net6.0\HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Рабочий стол\HW\HW\obj\Debug\net6.0\HW.AssemblyInfoInputs.cache
+C:\Users\Nikita\Рабочий стол\HW\HW\obj\Debug\net6.0\HW.AssemblyInfo.cs
+C:\Users\Nikita\Рабочий стол\HW\HW\obj\Debug\net6.0\HW.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Рабочий стол\HW\HW\obj\Debug\net6.0\HW.dll
+C:\Users\Nikita\Рабочий стол\HW\HW\obj\Debug\net6.0\ref\HW.dll
+C:\Users\Nikita\Рабочий стол\HW\HW\obj\Debug\net6.0\HW.pdb
+C:\Users\Nikita\Рабочий стол\HW\HW\obj\Debug\net6.0\HW.genruntimeconfig.cache

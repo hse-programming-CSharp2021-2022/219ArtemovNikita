@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikita\\Рабочий стол\\HW\\Task01\\Task01.csproj": {}
+    "C:\\Users\\Nikita\\Рабочий стол\\C#\\219ArtemovNikita\\Module_02\\seminar_03\\HW\\Task01\\Task01.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikita\\Рабочий стол\\HW\\Task01\\Task01.csproj": {
+    "C:\\Users\\Nikita\\Рабочий стол\\C#\\219ArtemovNikita\\Module_02\\seminar_03\\HW\\Task01\\Task01.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikita\\Рабочий стол\\HW\\Task01\\Task01.csproj",
+        "projectUniqueName": "C:\\Users\\Nikita\\Рабочий стол\\C#\\219ArtemovNikita\\Module_02\\seminar_03\\HW\\Task01\\Task01.csproj",
         "projectName": "Task01",
-        "projectPath": "C:\\Users\\Nikita\\Рабочий стол\\HW\\Task01\\Task01.csproj",
+        "projectPath": "C:\\Users\\Nikita\\Рабочий стол\\C#\\219ArtemovNikita\\Module_02\\seminar_03\\HW\\Task01\\Task01.csproj",
         "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikita\\Рабочий стол\\HW\\Task01\\obj\\",
+        "outputPath": "C:\\Users\\Nikita\\Рабочий стол\\C#\\219ArtemovNikita\\Module_02\\seminar_03\\HW\\Task01\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\vs stud\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet"
+          "D:\\vs stud\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Nikita\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -60,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
