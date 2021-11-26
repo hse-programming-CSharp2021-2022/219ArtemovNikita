@@ -1,0 +1,17 @@
+C:\Users\Nikita\Рабочий стол\CW\Task03\bin\Debug\net6.0-windows\Task03.exe
+C:\Users\Nikita\Рабочий стол\CW\Task03\bin\Debug\net6.0-windows\Task03.deps.json
+C:\Users\Nikita\Рабочий стол\CW\Task03\bin\Debug\net6.0-windows\Task03.runtimeconfig.json
+C:\Users\Nikita\Рабочий стол\CW\Task03\bin\Debug\net6.0-windows\Task03.dll
+C:\Users\Nikita\Рабочий стол\CW\Task03\bin\Debug\net6.0-windows\ref\Task03.dll
+C:\Users\Nikita\Рабочий стол\CW\Task03\bin\Debug\net6.0-windows\Task03.pdb
+C:\Users\Nikita\Рабочий стол\CW\Task03\obj\Debug\net6.0-windows\Task03.csproj.AssemblyReference.cache
+C:\Users\Nikita\Рабочий стол\CW\Task03\obj\Debug\net6.0-windows\Task03.Form1.resources
+C:\Users\Nikita\Рабочий стол\CW\Task03\obj\Debug\net6.0-windows\Task03.csproj.GenerateResource.cache
+C:\Users\Nikita\Рабочий стол\CW\Task03\obj\Debug\net6.0-windows\Task03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nikita\Рабочий стол\CW\Task03\obj\Debug\net6.0-windows\Task03.AssemblyInfoInputs.cache
+C:\Users\Nikita\Рабочий стол\CW\Task03\obj\Debug\net6.0-windows\Task03.AssemblyInfo.cs
+C:\Users\Nikita\Рабочий стол\CW\Task03\obj\Debug\net6.0-windows\Task03.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Рабочий стол\CW\Task03\obj\Debug\net6.0-windows\Task03.dll
+C:\Users\Nikita\Рабочий стол\CW\Task03\obj\Debug\net6.0-windows\ref\Task03.dll
+C:\Users\Nikita\Рабочий стол\CW\Task03\obj\Debug\net6.0-windows\Task03.pdb
+C:\Users\Nikita\Рабочий стол\CW\Task03\obj\Debug\net6.0-windows\Task03.genruntimeconfig.cache
