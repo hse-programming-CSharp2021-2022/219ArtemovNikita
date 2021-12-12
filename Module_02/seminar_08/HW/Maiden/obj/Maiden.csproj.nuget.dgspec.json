@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nikita\\Рабочий стол\\HW\\Maiden\\Maiden.csproj": {}
+    "C:\\Users\\Nikita\\Рабочий стол\\C#\\219ArtemovNikita\\Module_02\\seminar_08\\HW\\Maiden\\Maiden.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nikita\\Рабочий стол\\HW\\Maiden\\Maiden.csproj": {
+    "C:\\Users\\Nikita\\Рабочий стол\\C#\\219ArtemovNikita\\Module_02\\seminar_08\\HW\\Maiden\\Maiden.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nikita\\Рабочий стол\\HW\\Maiden\\Maiden.csproj",
+        "projectUniqueName": "C:\\Users\\Nikita\\Рабочий стол\\C#\\219ArtemovNikita\\Module_02\\seminar_08\\HW\\Maiden\\Maiden.csproj",
         "projectName": "Maiden",
-        "projectPath": "C:\\Users\\Nikita\\Рабочий стол\\HW\\Maiden\\Maiden.csproj",
+        "projectPath": "C:\\Users\\Nikita\\Рабочий стол\\C#\\219ArtemovNikita\\Module_02\\seminar_08\\HW\\Maiden\\Maiden.csproj",
         "packagesPath": "C:\\Users\\Nikita\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nikita\\Рабочий стол\\HW\\Maiden\\obj\\",
+        "outputPath": "C:\\Users\\Nikita\\Рабочий стол\\C#\\219ArtemovNikita\\Module_02\\seminar_08\\HW\\Maiden\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\vs stud\\NuGetPackages"
