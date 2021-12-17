@@ -106,5 +106,22 @@ class Program
         {
             Console.WriteLine("директория не нашлась, нет ее вот и все");
         }
+
+        try
+        {
+            throw new Exc("good luck!");
+        }
+        catch (Exc e)
+        {
+            Console.WriteLine(e.Message);
+        }
     }
 }
+
+class Exc : Exception
+{
+    public Exc(string message)
+        : base(message)
+    { }
+}
+
