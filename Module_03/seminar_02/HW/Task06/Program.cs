@@ -10,7 +10,7 @@ class Plant
         get => _sens;
         set
         {
-            if (value is >= 0 and <= 100)
+            if (value is >= 0 and <= 100) 
                 _sens = value;
             else
                 throw new ArgumentException("Photosensitivity value must be >= 0 and <= 100");
