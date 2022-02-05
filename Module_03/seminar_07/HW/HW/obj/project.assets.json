@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nktrtmv/Desktop/HW/HW/HW.csproj",
+      "projectUniqueName": "/Users/nktrtmv/Desktop/219ArtemovNikita/Module_03/seminar_07/HW/HW/HW.csproj",
       "projectName": "HW",
-      "projectPath": "/Users/nktrtmv/Desktop/HW/HW/HW.csproj",
+      "projectPath": "/Users/nktrtmv/Desktop/219ArtemovNikita/Module_03/seminar_07/HW/HW/HW.csproj",
       "packagesPath": "/Users/nktrtmv/.nuget/packages/",
-      "outputPath": "/Users/nktrtmv/Desktop/HW/HW/obj/",
+      "outputPath": "/Users/nktrtmv/Desktop/219ArtemovNikita/Module_03/seminar_07/HW/HW/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nktrtmv/.nuget/NuGet/NuGet.Config"
