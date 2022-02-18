@@ -76,16 +76,12 @@ class Program
             await JsonSerializer.SerializeAsync(fs, unis);
             Console.WriteLine("Объект сериализован");
         }
-
-        await Task.Delay(1000);
         
         using (var fs = new FileStream("note.json", FileMode.OpenOrCreate))
         {
             var g = await JsonSerializer.DeserializeAsync<List<University>>(fs);
             Console.WriteLine("Объект десериализован");
         }
-        
-        await Task.Delay(1000);
         
         var formatter = new XmlSerializer(typeof(List<University>));
         
@@ -94,9 +90,7 @@ class Program
             formatter.Serialize(fs, unis);
             Console.WriteLine("Объект сериализован");
         }
- 
-        await Task.Delay(1000);
-        
+
         using (var fs = new FileStream("note2.xml", FileMode.OpenOrCreate))
         {
             var newGroup = (List<University>)formatter.Deserialize(fs);
@@ -105,16 +99,12 @@ class Program
         
         var formater = new BinaryFormatter();
 
-        await Task.Delay(1000);
-        
         using (var fs = new FileStream("note3.dat", FileMode.OpenOrCreate))
         {
             formater.Serialize(fs, unis);
             Console.WriteLine("Объект сериализован");
         }
-        
-        await Task.Delay(1000);
-        
+
         using (var fs = new FileStream("note3.dat", FileMode.OpenOrCreate))
         {
             var newUni = (List<University>)formater.Deserialize(fs);
