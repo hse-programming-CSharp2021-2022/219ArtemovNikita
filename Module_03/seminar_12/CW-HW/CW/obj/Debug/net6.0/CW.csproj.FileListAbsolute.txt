@@ -1,0 +1,15 @@
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/bin/Debug/net6.0/CW
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/bin/Debug/net6.0/CW.deps.json
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/bin/Debug/net6.0/CW.runtimeconfig.json
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/bin/Debug/net6.0/CW.dll
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/bin/Debug/net6.0/CW.pdb
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/obj/Debug/net6.0/CW.csproj.AssemblyReference.cache
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/obj/Debug/net6.0/CW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/obj/Debug/net6.0/CW.AssemblyInfoInputs.cache
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/obj/Debug/net6.0/CW.AssemblyInfo.cs
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/obj/Debug/net6.0/CW.csproj.CoreCompileInputs.cache
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/obj/Debug/net6.0/CW.dll
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/obj/Debug/net6.0/refint/CW.dll
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/obj/Debug/net6.0/CW.pdb
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/obj/Debug/net6.0/CW.genruntimeconfig.cache
+/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/obj/Debug/net6.0/ref/CW.dll
