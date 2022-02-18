@@ -73,7 +73,7 @@ class Program
         
         using (var fs = new FileStream("note.json", FileMode.OpenOrCreate))
         {
-            await JsonSerializer.SerializeAsync<List<University>>(fs, unis);
+            await JsonSerializer.SerializeAsync(fs, unis);
             Console.WriteLine("Объект сериализован");
         }
 

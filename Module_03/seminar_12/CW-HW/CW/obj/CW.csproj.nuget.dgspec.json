@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/CW.csproj": {}
+    "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_12/CW-HW/CW/CW.csproj": {}
   },
   "projects": {
-    "/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/CW.csproj": {
+    "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_12/CW-HW/CW/CW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/CW.csproj",
+        "projectUniqueName": "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_12/CW-HW/CW/CW.csproj",
         "projectName": "CW",
-        "projectPath": "/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/CW.csproj",
+        "projectPath": "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_12/CW-HW/CW/CW.csproj",
         "packagesPath": "/Users/nktrtmv/.nuget/packages/",
-        "outputPath": "/Users/nktrtmv/Desktop/seminar_12/CW-HW/CW/obj/",
+        "outputPath": "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_12/CW-HW/CW/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nktrtmv/.nuget/NuGet/NuGet.Config"
