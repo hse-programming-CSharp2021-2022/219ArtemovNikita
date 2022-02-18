@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/nktrtmv/Desktop/HW/Task/Task.csproj",
+      "projectUniqueName": "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_10/HW/Task/Task.csproj",
       "projectName": "Task",
-      "projectPath": "/Users/nktrtmv/Desktop/HW/Task/Task.csproj",
+      "projectPath": "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_10/HW/Task/Task.csproj",
       "packagesPath": "/Users/nktrtmv/.nuget/packages/",
-      "outputPath": "/Users/nktrtmv/Desktop/HW/Task/obj/",
+      "outputPath": "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_10/HW/Task/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/nktrtmv/.nuget/NuGet/NuGet.Config"
