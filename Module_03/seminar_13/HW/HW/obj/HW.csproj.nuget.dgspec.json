@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_13/CW/Task01/Task01.csproj": {}
+    "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_13/HW/HW/HW.csproj": {}
   },
   "projects": {
-    "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_13/CW/Task01/Task01.csproj": {
+    "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_13/HW/HW/HW.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_13/CW/Task01/Task01.csproj",
-        "projectName": "Task01",
-        "projectPath": "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_13/CW/Task01/Task01.csproj",
+        "projectUniqueName": "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_13/HW/HW/HW.csproj",
+        "projectName": "HW",
+        "projectPath": "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_13/HW/HW/HW.csproj",
         "packagesPath": "/Users/nktrtmv/.nuget/packages/",
-        "outputPath": "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_13/CW/Task01/obj/",
+        "outputPath": "/Users/nktrtmv/Desktop/C#/219ArtemovNikita/Module_03/seminar_13/HW/HW/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/nktrtmv/.nuget/NuGet/NuGet.Config"
